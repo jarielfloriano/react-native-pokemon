@@ -100,7 +100,7 @@ export default function SearchPokemonID() {
       <View style={styles.container}>
         {scanned && <Text style={styles.text}>Último request: {PokemonID}</Text>}
         <TouchableOpacity style={styles.submitButton} onPress={executeQuery} onPressOut={() => setScanned(false)}>
-          <Text style={styles.submitButtonText}>Liberar a camera</Text>
+          <Text style={styles.submitButtonText}>Gravar?</Text>
         </TouchableOpacity>
       </View>
 

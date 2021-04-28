@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "consultaPokemon",
-    "slug": "consultaPokemon",
+    "name": "Pokemon API do Jariel",
+    "slug": "pokemon-api-do-jariel",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,7 +21,7 @@
       "bundleIdentifier": "com.consultaPokemon.consultaPokemon"
     },
     "android": {
-      "package": "com.consultaPokemon.consultaPokemon",
+      "package": "com.kocabode.pokemon",
       "versionCode": 1
     },
     "web": {
